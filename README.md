@@ -15,5 +15,5 @@ I suggest The Cross-Entropy loss
 <br><br>
 <img src="https://gombru.github.io/assets/cross_entropy_loss/intro.png" alt="Loss Functions" width="600" height="200">
 
-
+<b>README will be updated</b>
 #### you can download a sample npy file in <a href="https://drive.google.com/file/d/1GH0drmCPXmtvdzJIXkPHLfNZPeYYKIX7/view?usp=sharing">Here</a>
