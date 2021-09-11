@@ -1,6 +1,6 @@
 # 3D
 Machine Learning Project for Converting 2D and 3D images
-This Project was created in 2019<br>
+<br>
 <b>This Project was created in 2019 </b>
 
 # Purpose
