@@ -11,9 +11,9 @@ I used A generative adversarial network <a href="https://en.wikipedia.org/wiki/G
 # Dataset
 Dataset was created by putting 2 cameras side by side and getting each photo labeled, the Network is trying to guess the second picture from the dataset to have 2 pictures of 2 different angles so we can try and create a 3D Model. 
 ## Loss functions
-I suggest The Cross-Entropy loss
+You can use  The Cross-Entropy loss or dice loss in this problem which dice has better results
+
 <br><br>
-<img src="https://gombru.github.io/assets/cross_entropy_loss/intro.png" alt="Loss Functions" width="600" height="200">
 
 <b>README will be updated</b>
 #### you can download a sample npy file in <a href="https://drive.google.com/file/d/1GH0drmCPXmtvdzJIXkPHLfNZPeYYKIX7/view?usp=sharing">Here</a>
